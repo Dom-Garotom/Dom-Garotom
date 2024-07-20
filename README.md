@@ -6,11 +6,12 @@
    Encantense, tenho 19 anos e sou <strong>Desenvolvedor Front-end</strong>.
 
    Olá visitante eu sou o Gean um desenvolvedor com uma grande paixão por criar interfaces de usuário intuitivas e atraentes. Com uma forte base em React, TypeScript e Next.js, tenho experiência em construir aplicações web modernas e responsivas.
-  Estudo programação a quase um ano e desde então, tenho me dedicado a aprender e aperfeiçoar minhas habilidades em várias tecnologias sempre a procura de novos desáfios e oportunidas. O que começou com a curiosidade de um garoto observando seu pai mechendo nos arquivos de jogos e sites da web, hoje se tornou uma curiosidade imensa pela construção de sites simples e sistemas interativos.
-  Espero poder ajudar você com o que procura, estou sempre aberto a conversas.
 </p>  
 
- 
+<p align="left"> 
+  Estudo programação a quase um ano e desde então, tenho me dedicado a aprender e aperfeiçoar minhas habilidades em várias tecnologias sempre a procura de novos desáfios e oportunidas. O que começou com a curiosidade de um garoto observando seu pai mechendo nos arquivos de jogos e sites da web, hoje se tornou uma curiosidade imensa pela construção de sites simples e sistemas interativos.
+  Espero poder ajudar você com o que procura, estou sempre aberto a conversas.
+ </p> 
 
 
 <h2 align="left">
