@@ -12,7 +12,7 @@ O que começou com a curiosidade de um garoto observando seu pai mechendo nos ar
 - 🎓 Analise e desenvolvimento de sistemas;
 - 💼 Atualment trabalhando em desenvolver projetos proprios;
 - 🎨 Experiência com UX/UI;
-<!-- - 🔎 Visit my portfolio at <a href="" target="_blank"></a>; -->
+- 🔎 Visit meu portfólio  <a href="https://portifolio-alpha-green.vercel.app" target="_blank">AlphaGreen</a>;
 - 💬  Fique a vontade para entrar em contato.
 
 <div>
