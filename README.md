@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Hi!
 
-Olá visitante eu sou o Gean um desenvolvedor com uma grande paixão por criar interfaces de usuário intuitivas e atraentes. Com uma forte base em React, TypeScript e Next.js, tenho experiência em construir aplicações web modernas e responsivas.   
+Olá visitante eu sou o Gean um desenvolvedor com uma grande paixão por criar interfaces de usuário intuitivas e atraentes. Com uma forte base em React, Native , Node , TypeScript e Next.js. Tenho experiência em construir aplicações web modernas e responsivas.   
 
 O que começou com a curiosidade de um garoto observando seu pai mechendo nos arquivos de jogos e sites da web, hoje se tornou uma curiosidade imensa pela construção de sites simples e sistemas interativos. Espero poder ajudar você com o que procura, estou sempre aberto a conversas.
 
