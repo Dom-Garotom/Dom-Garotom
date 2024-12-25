@@ -13,7 +13,7 @@ O que começou com a curiosidade de um garoto observando seu pai mechendo nos ar
 - 💼 Atualment trabalhando em desenvolver projetos proprios;
 - 🎨 Experiência com UX/UI;
 - 🔎 Visit meu portfólio  <a href="https://portifolio-alpha-green.vercel.app" target="_blank">AlphaGreen</a>;
-- ☕ Dé uma olhada nos <a href="[https://portifolio-alpha-green.vercel.app](https://dev.to/domgarotom)" target="_blank">meus textos</a>;
+- ☕ Dé uma olhada nos <a href="https://dev.to/domgarotom" target="_blank">meus textos</a>;
 - 💬  Fique a vontade para entrar em contato.
 
 <div>
@@ -40,4 +40,7 @@ O que começou com a curiosidade de um garoto observando seu pai mechendo nos ar
 </a>
 <a href="https://discordapp.com/users/591655944635678744" target="_blank">
   <img align="left" alt="Dom-Garotom Discord" width="24px" src="https://img.icons8.com/?size=256&id=65646&format=png" />
+</a>
+<a href="https://dev.to/domgarotom" target="_blank">
+  <img align="left" alt="Dom-Garotom Discord" width="24px" src="https://img.icons8.com/?size=556&id=Sf2NuZRCVuaE&format=png&color=FFFFFF" />
 </a>
